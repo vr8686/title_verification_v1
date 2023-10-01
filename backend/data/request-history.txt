@@ -1,0 +1,27 @@
+9/30/2023, 6:55:37 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 6:55:47 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:00:35 PM, NY - BILL OF SALE, Title is not good for export.
+9/30/2023, 7:00:37 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:00:39 PM, SFGSFGSG, Title is not good for export.
+9/30/2023, 7:00:41 PM, SDHDHDSGH, Title is not good for export.
+9/30/2023, 7:00:43 PM, MNHGF, Title is not good for export.
+9/30/2023, 7:00:46 PM, MJTHGHJM, Title is not good for export.
+9/30/2023, 7:00:48 PM, KJTHRTGDFHJHG, Title is not good for export.
+9/30/2023, 7:00:50 PM, JDTHDRHRJRJ, Title is not good for export.
+9/30/2023, 7:03:23 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:06:30 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:06:32 PM, SFGSFGSG, Title is not good for export.
+9/30/2023, 7:14:39 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:15:17 PM, SGFDSGDSG, Title is not good for export.
+9/30/2023, 7:17:11 PM, NY - BILL OF SALE, Title is not good for export.
+9/30/2023, 7:17:21 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:20:06 PM, SFGSFGSG, Title is not good for export.
+9/30/2023, 7:20:09 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:23:49 PM, NY - BILL OF SALE, Title is not good for export.
+9/30/2023, 7:24:00 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:24:13 PM, AZ - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:29:44 PM, NY - BILL OF SALE, Title is not good for export.
+9/30/2023, 7:30:43 PM, SFGSFGSG, Title is not good for export.
+9/30/2023, 7:40:12 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+9/30/2023, 7:40:24 PM, SFGSFGSG, Title is not good for export.
+9/30/2023, 8:31:30 PM, SFGSFGSG, Title is not good for export.

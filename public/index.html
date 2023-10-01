@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Title Verification Service</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Title Verification Service</h1>
+        <form id="verificationForm">
+            <p>Paste the Title Code from the auction website:</p>
+            <input
+                type="text"
+                id="titleCodeInput"
+                placeholder="Paste Title Code from Copart"
+                size="40">
+            <button type="submit" id="verifyButton">Verify</button>
+            <div id="verificationResult"></div>
+        </form>
+        <div id="historySectionFromFile">
+            <h2>Request History (last 10 results only)</h2>
+            <table id="requestHistoryTable">
+                <thead>
+                    <tr>
+                        <th>Date</th>
+                        <th>Time</th>
+                        <th>Title Code</th>
+                        <th>Result</th>
+                    </tr>
+                </thead>
+                <tbody id="requestHistoryFromFile"></tbody>
+            </table>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

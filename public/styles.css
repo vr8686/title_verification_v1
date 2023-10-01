@@ -1,0 +1,113 @@
+/* Style the h1 title */
+h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333; /* Dark gray color */
+}
+
+/* Style the paragraph */
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #666; /* Slightly lighter gray color */
+}
+
+/* Style the input container (center the input and button) */
+.container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+
+/* Style the table */
+#requestHistoryTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  /* Style the table header */
+  #requestHistoryTable thead {
+    background-color: #f5f5f7;
+  }
+  
+  #requestHistoryTable th {
+    padding: 12px;
+    text-align: center;
+  }
+  
+  /* Style table rows */
+  #requestHistoryTable tbody tr {
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  #requestHistoryTable tbody td {
+    padding: 12px;
+  }
+  
+  /* Style odd rows with a different background color */
+  #requestHistoryTable tbody tr:nth-child(odd) {
+    background-color: #f9f9fa;
+  }
+  
+  /* Style table rows on hover */
+  #requestHistoryTable tbody tr:hover {
+    background-color: #e0e0e0;
+  }
+  
+ /* Style the title code input field */
+#titleCodeInput {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  /* Add a subtle box shadow when the input is focused */
+#titleCodeInput:focus {
+    border-color: #007bff;
+  }
+  
+  /* Style the verify button */
+  .container button {
+    padding: 12px 24px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  /* Change button color on hover */
+  .container button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style the verification result message */
+#verificationResult {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Style the verification result for "good" */
+#verificationResult.good {
+    background-color: #4CAF50; /* Green background color */
+    color: white; /* White text color */
+}
+
+/* Style the verification result for "not good" */
+#verificationResult.not-good {
+    background-color: #F44336; /* Red background color */
+    color: white; /* White text color */
+}
