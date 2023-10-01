@@ -1,0 +1,3 @@
+# flyctl launch added from public/.gitignore
+public/**/.vercel
+fly.toml

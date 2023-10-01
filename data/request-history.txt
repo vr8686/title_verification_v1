@@ -26,3 +26,6 @@
 9/30/2023, 7:40:24 PM, SFGSFGSG, Title is not good for export.
 9/30/2023, 8:31:30 PM, SFGSFGSG, Title is not good for export.
 9/30/2023, 11:03:20 PM, SFGSFGSG, Title is not good for export.
+10/1/2023, 9:50:23 AM, NY - BILL OF SALE, Title is not good for export.
+10/1/2023, 5:18:21 PM, SFGSFGSG, Title is not good for export.
+10/1/2023, 5:18:28 PM, FL - CERTIFICATE OF TITLE, Title is good for export.

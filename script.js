@@ -6,7 +6,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Function to fetch and display request history from the file
     function loadRequestHistoryFromFile() {
-        fetch("http://localhost:3001/api/request-history")
+        fetch("http://title.fly.dev/api/request-history")
+        //fetch("http://localhost:3001/api/request-history")
             .then(response => response.json())
             .then(data => {
                 const requestHistoryFromFile = document.getElementById("requestHistoryFromFile");
@@ -49,7 +50,8 @@ document.addEventListener("DOMContentLoaded", function () {
             return;
         }
 
-        fetch("http://localhost:3001/api/verify-title", {
+        fetch("http://title.fly.dev/api/verify-title", {
+        //fetch("http://localhost:3001/api/verify-title", {
             method: "POST",
             body: JSON.stringify({ titleCode }),
             headers: {
