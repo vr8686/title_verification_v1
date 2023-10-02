@@ -74,3 +74,5 @@
 10/1/2023, 8:22:03 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export with pending status. Please note that the vehicle won't be picked up until the title is ready.
 10/1/2023, 8:22:13 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
 10/1/2023, 8:22:48 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 8:28:12 PM, CERT- OF TTL-, Title is good for export.
+10/1/2023, 8:28:52 PM, CERT OF TITLE - SALVAGE CERT OF TITLE - SALVAGE (P), Title is good for export.
