@@ -16,7 +16,7 @@ function isTitleGood(titleCode) {
     const lowercaseTitleCode = titleCode.toLowerCase();
     // Define arrays of keywords for "certificate" and "title"
     const certificateKeywords = ["certificate", "cert"];
-    const titleKeywords = ["title", "ttl"];
+    const titleKeywords = ["title", "ttl", "salvage"];
     
     // Check if the title contains any of the certificate or title keywords
     const containsCertificate = certificateKeywords.some(keyword =>
@@ -29,6 +29,7 @@ function isTitleGood(titleCode) {
     // Return true if either certificate or title keywords are found
     return containsCertificate && containsTitle;
 }
+
 // Function to save request history to a file
 function saveRequestHistory(requestItem) {
     const filePath = path.join(__dirname, "data", "request-history.txt");
@@ -38,7 +39,7 @@ function saveRequestHistory(requestItem) {
         if (err) {
             console.error("Error saving request history:", err);
         } else {
-            console.log("Request history saved successfully.");
+            console.log("New request saved successfully.");
         }
     });
 }
