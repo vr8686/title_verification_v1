@@ -9,49 +9,26 @@ const path = require("path");
 app.use(bodyParser.json());
 app.use(cors());
 
-// Here we check if the title is good or not: 
-// 1) check by keywords in the title code
-// 2) comoare to title data base if title code does not contain certain keywords
+// Here we check if the title is good or not: check by keywords in the title code
+
 // Convert the title code to lowercase for case-insensitive comparison
 function isTitleGood(titleCode) {
     const lowercaseTitleCode = titleCode.toLowerCase();
-    // Check if the title contains the words "certificate," and "title"
-    if (
-        lowercaseTitleCode.includes("certificate") &&
-        lowercaseTitleCode.includes("title")
-    ) {
-        return true;
-    }
-    return titleDatabase[lowercaseTitleCode] || false;
+    // Define arrays of keywords for "certificate" and "title"
+    const certificateKeywords = ["certificate", "cert"];
+    const titleKeywords = ["title", "ttl"];
+    
+    // Check if the title contains any of the certificate or title keywords
+    const containsCertificate = certificateKeywords.some(keyword =>
+        lowercaseTitleCode.includes(keyword)
+    );
+    const containsTitle = titleKeywords.some(keyword =>
+        lowercaseTitleCode.includes(keyword)
+    );
+
+    // Return true if either certificate or title keywords are found
+    return containsCertificate && containsTitle;
 }
-
-// Sample data for title verification (replace with your own data)
-const titleDatabase = {
-    "al - certificate of title": true,
-    "fl - certificate of title": true,
-    "de - parts only": false,
-    "in - bill of sale - parts only": false,
-    "md - parts only - no title letter": false,
-    "mi - scrap - bill of sale": false,
-    "mi - tr-52": false,
-    "mi - bill of sale": false,
-    "mi - bill of sale / parts only": false,
-    "mt - bill of sale - parts only": false,
-    "ny - bill of sale": false,
-    "ny - mv907a - open lien": false,
-    "ny - mv907a- parts only w/lien holder": false,
-    "ny - mv907a- dismantlers": false,
-    "ny - mv-37 - dismantle or scrap": false,
-    "fl - cash for clunkers": false,
-    "ca - acquisition bill of sale": false,
-    "ca - salvage acquisition bill of sale": false,
-    "ga - unrecovered theft": false,
-    "ia - junking certificate": false,
-    "nc - junk receipt": false,
-    "la - permit to sell": false,
-    // Add more title codes and their verification status here
-};
-
 // Function to save request history to a file
 function saveRequestHistory(requestItem) {
     const filePath = path.join(__dirname, "data", "request-history.txt");

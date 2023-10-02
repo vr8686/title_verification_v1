@@ -29,3 +29,48 @@
 10/1/2023, 9:50:23 AM, NY - BILL OF SALE, Title is not good for export.
 10/1/2023, 5:18:21 PM, SFGSFGSG, Title is not good for export.
 10/1/2023, 5:18:28 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 6:10:52 PM, SFGSFGSG, Title is not good for export.
+10/1/2023, 6:49:37 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 6:50:32 PM, CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 6:59:40 PM, CERT OF TTL, Title is good for export.
+10/1/2023, 6:59:53 PM, CERTIFICATE OF TTL, Title is good for export.
+10/1/2023, 7:00:04 PM, GA CERT OF TTL, Title is good for export.
+10/1/2023, 7:00:41 PM, NON-REPAIRABLE CERTIFICATE, Title is not good for export.
+10/1/2023, 7:01:34 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 7:05:46 PM, CERT OF SALVAGE > 75% DAMAGE (P), Title is not good for export.
+10/1/2023, 7:21:24 PM, CERT OF SALVAGE > 75% DAMAGE (P), Title is not good for export.
+10/1/2023, 7:21:40 PM, CERT OF TITLE - SALVAGE (P), Title is not good for export.
+10/1/2023, 7:22:41 PM, FL - CERTIFICATE OF TITLE (P), Title is not good for export.
+10/1/2023, 7:24:29 PM, FL - CERTIFICATE OF TITLE (P), Title is not good for export.
+10/1/2023, 7:25:15 PM, FL - CERTIFICATE OF TITLE (P), Title is not good for export.
+10/1/2023, 7:25:22 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 7:27:08 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 7:27:32 PM, NY - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 7:27:42 PM, GSDGGDSGH, Title is not good for export.
+10/1/2023, 7:27:46 PM, TERQGG OF TITLE, Title is not good for export.
+10/1/2023, 7:29:15 PM, NY - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 7:31:51 PM, NY - CERTIFICATE OF TITLE (P), Title is not good for export.
+10/1/2023, 7:31:58 PM, FL - CERTIFICATE OF TITLE (P), Title is not good for export.
+10/1/2023, 7:32:03 PM, FL - CERTIFICATE OF TITLE, Title is not good for export.
+10/1/2023, 7:32:08 PM, FL - CERTIFICATE OF TITLE, Title is not good for export.
+10/1/2023, 7:32:50 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 7:32:56 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 7:33:01 PM, SFGSFGSG, Title is not good for export.
+10/1/2023, 7:33:07 PM, SGFDSGDSG (P), Title is not good for export.
+10/1/2023, 7:33:36 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 7:33:41 PM, NY - BILL OF SALE, Title is not good for export.
+10/1/2023, 7:33:43 PM, SGFDSGDSG, Title is not good for export.
+10/1/2023, 8:02:12 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export. Vehicle won't be picked up until the title is ready.
+10/1/2023, 8:03:04 PM, FL - CERTIFICATE OF TITLE (P), Title is not good for export.
+10/1/2023, 8:03:58 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 8:16:24 PM, AL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 8:16:26 PM, SFGSFGSG, Title is not good for export.
+10/1/2023, 8:16:28 PM, NY - BILL OF SALE, Title is not good for export.
+10/1/2023, 8:16:30 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export.
+10/1/2023, 8:16:35 PM, ;P9LOKTGRF, Title is not good for export.
+10/1/2023, 8:16:41 PM, CERT OF TTL, Title is good for export.
+10/1/2023, 8:16:47 PM, CERT OF TITLE, Title is good for export.
+10/1/2023, 8:17:00 PM, CERT OF TITLE (P), Title is good for export.
+10/1/2023, 8:22:03 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export with pending status. Please note that the vehicle won't be picked up until the title is ready.
+10/1/2023, 8:22:13 PM, FL - CERTIFICATE OF TITLE, Title is good for export.
+10/1/2023, 8:22:48 PM, FL - CERTIFICATE OF TITLE (P), Title is good for export.
